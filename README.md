@@ -3,5 +3,9 @@ Repositorio para la documentación de proyectos de
 
 ¡Completar!
 
-Integrantes (quiénes integran el grupo de trabajo)
+Integrantes:
+-Aupi, Santiago (100793)
+-De Marco, Facundo ()
+-Gayet, Denise (100828)
+
 Proyecto (nombre) y breve descripción (3 párrafos)
