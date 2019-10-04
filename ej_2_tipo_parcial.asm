@@ -62,7 +62,7 @@ LOOP1:
 	RCALL CODIFICAR_CARACTER 
 	CPSE CARACTER, STRING_TERMINATOR ;si CARACTER == EOL saltea la siguiente instruccion
 	JMP LOOP1
-out_1:
+out_1: ;esta etiqueta es la que permite el funcionamiento del programa
 	RET
 
 CODIFICAR_CARACTER:
